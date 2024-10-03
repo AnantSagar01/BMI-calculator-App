@@ -24,7 +24,7 @@ The **BMI Calculator App** is a simple and user-friendly application that helps 
 5. The app will display your BMI and the corresponding category.
 
 ## Technology Stack
-Technology Built this app in Android studio using:-
+Built this app in Android studio using:-
 - **Frontend**: XML
 - **Backend**: JAVA
 
