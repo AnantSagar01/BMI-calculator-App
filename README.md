@@ -6,7 +6,7 @@ The **BMI Calculator App** is a simple and user-friendly application that helps 
 
 ## Features
 
-- **User Input**: Users can input their weight (in kilograms) and height (in meters) to calculate their BMI.
+- **User Input**: Users can input their weight (in kilograms) and height (in feet and inches) to calculate their BMI.
 - **BMI Categories**: Based on the calculated BMI, the app categorizes the result into:
   - Underweight (BMI < 18.5)
   - Normal weight (BMI 18.5–24.9)
