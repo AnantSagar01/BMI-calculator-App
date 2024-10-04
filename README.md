@@ -19,7 +19,7 @@ The **BMI Calculator App** is a simple and user-friendly application that helps 
 
 1. Open the app.
 2. Enter your weight in kilograms.
-3. Enter your height in meters.
+3. Enter your height in feet and inches.
 4. Click on the "Calculate" button.
 5. The app will display your BMI and the corresponding category.
 
