@@ -1,5 +1,7 @@
 # BMI Calculator App
 
+Download [BMI_calculator.apk](https://install.appcenter.ms/users/anantsagar0069-gmail.com/apps/bmi-calculator-app/distribution_groups/v1)
+
 ## Overview
 
 The **BMI Calculator App** is a simple and user-friendly application that helps users calculate their Body Mass Index (BMI). BMI is a useful measure to assess if a person has a healthy weight for their height. The app provides quick feedback on whether the user's BMI falls into categories such as underweight, normal weight, overweight, or obesity.
